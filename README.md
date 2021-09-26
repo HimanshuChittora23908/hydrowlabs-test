@@ -1,5 +1,35 @@
+# Demo Video
+<video src="./src/video/demo.mp4" width="75%" height="75%"></video>
+
 # Screenshots
-![Login Page](https://octodex.github.com/images/yaktocat.png)
+<img width="50%" height="50%" src="./src/img/Desktop-Blank.png">
+
+## Dropdown
+<img width="50%" height="50%" src="./src/img/Dropdown.png">
+
+## Errors
+Name is a required field. It can only be a string with only alphabets and numbers along with minimum length of 5 characters and maximum of 32 characters. \
+Designation is a required field. It can only be a string with only alphabets and numbers along with minimum length of 2 characters and maximum of 64 characters.
+<img width="50%" height="50%" src="./src/img/Error.png">
+<img width="50%" height="50%" src="./src/img/Error2.png">
+
+## Alert
+If user tries to submit with errors. A alert will be shown that will ask user to fix errors before submitting. \
+<img width="50%" height="50%" src="./src/img/PopUp.png">
+
+## Result
+When all the data entered is correct and form is submitted it will show user what information he/she has entered in the form.
+<img width="50%" height="50%" src="./src/img/Result.png">
+
+## Responsiveness
+The site works properly on all the devices ranging from mobiles to 4K Monitors.
+### Mobile
+<img width="25%" height="25%" src="./src/img/Mobile_Blank.png"> \
+<img width="25%" height="25%" src="./src/img/Mobile_Result.png">
+
+### Tablet 
+<img width="50%" height="50%" src="./src/img/Tablet_Blank.png">
+<img width="50%" height="50%" src="./src/img/Tablet_Result.png">
 
 # Getting Started with Create React App
 
