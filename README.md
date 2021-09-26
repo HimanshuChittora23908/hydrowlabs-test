@@ -1,7 +1,5 @@
 # Demo Video
-<video src="./src/video/demo.mp4" width="75%" height="75%"></video>
-[![Demo]](https://drive.google.com/file/d/1NbHyHgRET38_oTG_iN9-STwuExn0qpuK/view?usp=sharing)
-
+https://user-images.githubusercontent.com/75764096/134791885-080394e5-abfc-4428-8103-5b6878288350.mp4
 
 # Screenshots
 <img width="50%" height="50%" src="./src/img/Desktop-Blank.png">
